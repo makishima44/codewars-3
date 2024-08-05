@@ -16,5 +16,3 @@ function isOpposite(s1, s2) {
   }
   return true;
 }
-
-console.log(isOpposite("AB", "Ab"));
